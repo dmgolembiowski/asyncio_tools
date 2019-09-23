@@ -1,0 +1,4 @@
+aioconsole==0.1.15
+aioconsole==0.1.15
+attrs==19.1.0
+pkg-resources==0.0.0
